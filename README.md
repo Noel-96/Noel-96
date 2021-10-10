@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noel Obaseki</h1>
-<h3 align="center">A native mobile applications developer(Swift and Kotlin) from Lagos with experience in python, react and node</h3>
+<h3 align="center">A native mobile applications developer(Swift and Kotlin)  with experience in python, react and node</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
